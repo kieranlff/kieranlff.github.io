@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thank You for Your Submission</title>
+    <style>
+        body {
+            font-family: Garamond, serif;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #000000; /* You can match your brand's color */
+        }
+        p {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+        a {
+            color: #000000; /* Link color */
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Thank You!</h1>
+        <p>Your submission has been received. We appreciate you taking the time to share your information with us.</p>
+        <p>We will review your interest form and get back to you as soon as possible.</p>
+        <p>In the meantime, you can return to our <a href="https://sites.google.com/ddlynchff.org/home">home page</a>.</p>
+    </div>
+</body>
+</html>
